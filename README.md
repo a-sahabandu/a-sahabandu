@@ -69,11 +69,6 @@
 
 ---
 
-## 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=a-sahabandu&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" />
-</p>
-
 ## 🔥 Streak Stats:
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=a-sahabandu&theme=dark&hide_border=true" alt="GitHub Streak Stats" />
@@ -84,13 +79,6 @@
 ## 📈 Contribution Graph:
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=a-sahabandu&theme=react-dark&hide_border=true&count_private=true" alt="GitHub Activity Graph" />
-</p>
-
----
-
-## 🎯 Most Used Languages:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=a-sahabandu&theme=dark&hide_border=true&layout=compact&langs_count=8&count_private=true" alt="Top Languages" />
 </p>
 
 ---
