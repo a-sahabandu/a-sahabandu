@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arunadha Sahabandu</h1>
-<h3 align="center">Dedicated and self-motivated full-stack developer with 1.5 years of hands-on experience in PHP, frontend technologies (HTML, CSS, JavaScript), databases, and Linux server management.</h3>
+<h3 align="center">Dedicated and self-motivated full-stack developer with hands-on experience in PHP, frontend technologies (HTML, CSS, JavaScript), databases, and Linux server management.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=a-sahabandu&label=Profile%20views&color=0e75b6&style=flat" alt="a-sahabandu" /> </p>
 
