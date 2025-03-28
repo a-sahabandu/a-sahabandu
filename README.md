@@ -19,7 +19,6 @@
 ---
 
 ### 📫 How to reach me:  
-- **Email:** [arunadha.web@gmail.com](mailto:arunadha.web@gmail.com)  
 - **Facebook:** [@a.sahabandu](https://fb.com/a.sahabandu)  
 
 ---
