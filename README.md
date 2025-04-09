@@ -89,6 +89,3 @@
 
 ---
 
-### 🚀 **Fun Fact:**
-> "I love learning new technologies and solving challenging problems!"
-
