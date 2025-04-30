@@ -1,4 +1,4 @@
-![waving](https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&text=Hi...!%20%20%20%20%20%2%I'm%20Arunadha%20Sahabandu&fontSize=40&fontAlign=35&fontAlignY=23&animation=twinkling&descAlign=56&textBg=false&section=header&desc=Full%20Stack%20Developer%20|%20Student&descAlignY=37&descSize=16)
+![waving](https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&text=Hi...!%20%20%20%20%20%2%I'm%20Arunadha%20Sahabandu&fontSize=40&fontAlign=64&fontAlignY=23&animation=twinkling&descAlign=85&textBg=false&section=header&desc=Full%20Stack%20Developer%20|%20Student&descAlignY=39&descSize=16)
 
 ## 🌟 About Me
 <p align="start">I'm a dedicated and self-motivated full-stack developer with hands-on experience in PHP, modern frontend technologies, database design, and Linux server management. I enjoy building efficient, scalable web applications and continuously strive to improve my skills through real-world problem-solving and learning.</p>
